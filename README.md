@@ -1,2 +1,164 @@
-# prepr-pres
-prepr pres
+- # Engagment
+	- ## Who are our users?
+		- ### Hospitality Workers
+		- Hospitality workers of all kinds
+		- Specifically targeting hospitality workers who have found themselves without work over the pandemic
+		- Want to help a community that is struggling throughout the pandemic
+		- ### Interact with your users
+			- We interacted with out users during our initial idea brainstorming -- we sent out surveys to individuals who self identified as either working in hospitality or previously working within hospitality
+			- Through these surveys we found that many people currently within the hospitality industry are seeking to move away or reduce the amount of time they spend within the work place
+				- ^^Provide specific numbers from our quiz!^^
+		- ### Industry Businesses / Individual Clients
+			- Offer to provide high skilled workers quickly for events / business needs
+-
+- # Synthesize
+	- ## Challenge Statement
+		- ^^Put me here^^
+-
+- # Ideate
+	- ## Top 3 Ideas
+		- We quickly decided on a theme of wanting to work within hospitality both due to connections and seeing a need within that sector
+		- While we always wanted to work within the hospitality industry we went through many different ideations of what that would look like such as
+			- ### Job Board specifically for hospitality workers to find one off shifts at a restaurant or business that is short staffed
+				- Problem
+					- Hard to fit an untrained staff member into an already running restaurant both in the FOH and BOH
+					- What if restaurants close again? Our entire business model would immediately fail
+						- Good thing we didn't go with this as we are seeing yet another lockdown
+				- Advantages
+					- Work with employers to find work for hospitality workers
+					- Goes against our intial idea of trying to aid people trying to leave the industry as this job board requires that we find work within the industry and doesn't really help transition away from it.
+			- ### A platform where home cooks could sell food to individuals throughout their local area
+				- We spent a large amount of time working on this idea
+				- Problems
+					- Local laws make this difficult to expand outside of Ontario as each province has their own laws regarding the selling of food items
+					- Liability if someone is sick or poisoned?
+					- It would be very easy for Uber or other food delivery services to transition into this market as they already have the infastructure in place
+				- Advantages
+					- Seems to be a market which is largely untouched
+						- Uber allows you to order food but I cant order Christmas cookies from my neighbor who makes amazing snickerdoodles
+						-
+					-
+						-
+			- ### Platform for hospitality workers to work events (private cooks, bartending classes, etc.)
+				- Problems
+					- Are people comfortable being in close contact with strangers? What about being in someones home?
+						- This would still be less human contact then actually going to one of these events or going out
+					- Covid?
+						- Require vaccination of all people using our platform
+							- At the very least we need to make sure the hospitality workers are vaccinated
+					- Liability?
+				- Advantages
+					- Allows work on hospitality workers terms
+					- Low commitment -- single event
+					- Can start your own business through the platform
+						- Bartending Classes
+						- Private Cook
+					-
+					-
+-
+- # Create
+	- ## Add prototyping pictures
+		- Sketches
+		- Logos
+		- UI
+		- Idk what they learned ask them
+-
+- # Evaluate
+	- ## Moving Forward
+		- Poll potential users about interest and any concerns they may have
+		- Continue polling hospitality workers
+			- Ask about experiences in hospitality
+			- Ask about UI / Interface
+	- ## Continued Iteration
+		- Eventually make it possible to run a complete business through the platform
+		- We have a lofty goal of potentially offering some kind of basic health insurance to users who bring in a full time income using the platform
+			- Have minimum earnings
+			- X amount for basic insurance as long as you continue to earn a certain amount each month
+			- Perhaps one larger payment on start to gaurantee that the user gets insurance for at least some period of time
+		- Have some kind of job board within the platform for actual hospitality jobs as well
+-
+- # Demonstrate Solution-Market Fit
+	- ## Test Ideas
+		- ### Risks of our project
+			- COVID COVID COVID
+		- ### Ideas that need Validating
+			- People are interested in at home cooks / bartenders in their home despite the presence of covid
+			- We theorize that people would actually feel safer than when they would leave the house and go to a restaurant
+	- ## Create Value
+		- ### Value Proposition
+			- #### Hospitality Workers
+				- Providing work for hospitality workers on their terms allowing them to continue using their gained skills despite possible desire to transition out of the hospitality industry
+			- #### Users (Non-Hospitality Workers)
+				- Access to usually very expensive things (home cook, bartending classes, etc.) more easily
+				- Create fun events for you and your friends
+				- Special events
+		- ### Key Benefits
+			- Finding work for hospitality workers who have been laid off or without work because of the pandemic
+	- ## Understand Customers
+		- ### How do we get customers?
+			- Advertising
+			- Word of mouth
+			- Have to acquire both a base of hospitality workers and users.
+				- Our system does not work if we don't have enough hospitality workers offering their services.
+		- ### How do we develop loyalty?
+			- Users
+				- Fun positive ^^experiences^^
+				- Interesting things that other platforms don't offer (specific class or person you really liked)
+				- EASY!
+			- Hospitality Workers
+				- Promise of gigs that pay well
+				- Workplace safety
+				- Independence
+		- ### How do we keep customers?
+			- Users
+				- Good experiences that can't be found on other platforms
+				-
+			- Hospitality Workers
+				- Promise of work / money on their own terms
+		- ### What is the Lifetime Value (LTV)  and Customer Acquisition Cost (CAC)?
+			- This I don't know
+-
+- # Chart Competitive Landscape
+	- ## Market Type for your business?
+		- Monopolistic Competition with Numerous Competitors
+			- Their are other platforms available which provide gig work to hospitality workers however they do not currently do it in a way similar to us. They work with catering companies and notify people when their are shifts available to be picked up.
+			- While possible that they transition into competition I believe we differentiate ourselves enough
+	- ## Associated Risks
+		- Someone already in the gig space sees what we are doing and pivots to be competition before we gain our footing in the market and have a widely known name.
+- # Key Metrics and Traction
+	- ## Measure and Optimize? - idk
+	- ## Key Metrics of Plan -- idk
+-
+- # Introduce the Team
+	- No
+	- Mention talent gap
+- # Product Road Map
+	- ## What Value Do We Deliver?
+		- ### Hospitality Workers
+			- Work on own terms
+			- Gig work
+		- ### Users
+			- Fun Experiences at home
+			- UNIQUE
+	- ## Define Needs
+		- ### Activities
+			- Develop App
+			- Market to both ^^Users^^ and ^^Hospitality Workers^^
+		- ### Costs
+			- Marketing
+			- Development
+		- ### Key Partners
+			- ?
+	- ## Know Limits
+		- ### Planned Scope
+			- Time vs cost
+			- Launch in Toronto or the GTA
+				- Large test population
+				- Relatively small area
+				- Small area to market should help with costs
+		- ### How flexible is scope?
+			- I think scope should remain consistent launching in GTA
+			- If initial launch goes well we can look at expanding into other provinces -> if that goes well we can look at launching into other countries
+- # Reflect and Grow
+	- Key lessons learned?
+	- Do as group!
